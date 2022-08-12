@@ -40,6 +40,13 @@ const ControlledPolicy = () => {
 
     const onSubmit = (data) => {
         console.log(data)
+        fetch(`http://localhost:3001/AddUser`, {
+        method: "POST",
+        body: JSON.stringify(data),
+        headers: {
+            "content-type": "application/json",
+        },
+    });
 
     }
 
@@ -58,6 +65,11 @@ const ControlledPolicy = () => {
             return null;
         }
     }
+
+    // The following is useWatch example
+    //   console.log(useWatch({ name: "test", control }));
+    // json-server db.json --port 3001 --watch
+    
 
     return (
         <form onSubmit={handleSubmit(onSubmit)}>

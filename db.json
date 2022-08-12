@@ -1,0 +1,154 @@
+{
+  "AddUser": [
+    {
+      "familydetails": [
+        {
+          "fmembername": "Shyam",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2022-06-03",
+          "fmembermobile": "123"
+        },
+        {
+          "fmembername": "Sohan",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2022-04-29",
+          "fmembermobile": "4535"
+        },
+        {
+          "fmembername": "XYZ",
+          "fmemberrelation": "Mother",
+          "fmemberdob": "2022-03-09",
+          "fmembermobile": "1231414134"
+        },
+        {
+          "fmembername": "ACBD",
+          "fmemberrelation": "EFGH",
+          "fmemberdob": "2022-09-04",
+          "fmembermobile": "133423"
+        }
+      ],
+      "holdername": "Mohan",
+      "amount": "1750",
+      "nominename": "Ram",
+      "discountPercent": 20,
+      "company": "ABC",
+      "address": "Ahmedabad,\nGujarat",
+      "mobilenumber": "12311341243",
+      "id": 1
+    },
+    {
+      "familydetails": [
+        {
+          "fmembername": "Shyam",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2022-04-06",
+          "fmembermobile": "123134134"
+        },
+        {
+          "fmembername": "Sohan",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2021-11-19",
+          "fmembermobile": "4535123143143"
+        }
+      ],
+      "holdername": "Mohan Ram",
+      "amount": "1000",
+      "nominename": "Ram",
+      "discountPercent": 10,
+      "company": "ABC",
+      "address": "Ahmedabad,\nGujarat",
+      "mobilenumber": "12311341243",
+      "id": 2
+    },
+    {
+      "familydetails": [
+        {
+          "fmembername": "Shyam",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2022-08-04",
+          "fmembermobile": "23123213"
+        }
+      ],
+      "holdername": "Rohit",
+      "amount": "1000",
+      "nominename": "Ram",
+      "discountPercent": 10,
+      "company": "ABC",
+      "address": "qweqwe",
+      "mobilenumber": "312312",
+      "id": 3
+    },
+    {
+      "familydetails": [
+        {
+          "fmembername": "Shyam",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2022-08-04",
+          "fmembermobile": "23123213"
+        },
+        {
+          "fmembername": "Sohan",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2022-08-03",
+          "fmembermobile": "12312123"
+        }
+      ],
+      "holdername": "Rohit",
+      "amount": "1000",
+      "nominename": "Ram",
+      "discountPercent": 10,
+      "company": "ABC",
+      "address": "Abcd",
+      "mobilenumber": "312312",
+      "id": 4
+    },
+    {
+      "familydetails": [
+        {
+          "fmembername": "Shyam",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2022-08-03",
+          "fmembermobile": "23123213"
+        },
+        {
+          "fmembername": "Sohan",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2022-08-03",
+          "fmembermobile": "12312123"
+        }
+      ],
+      "holdername": "Mohan",
+      "amount": "1000",
+      "nominename": "Ram",
+      "discountPercent": 20,
+      "company": "ABC",
+      "address": "Abcd",
+      "mobilenumber": "312312",
+      "id": 5
+    },
+    {
+      "holdername": "Rohit",
+      "amount": "1050",
+      "nominename": "Shyam",
+      "company": "ABCD",
+      "discountPercent": 20,
+      "address": "\nAhmedabad, Gujarat\n",
+      "mobilenumber": "3123124",
+      "familydetails": [
+        {
+          "fmembername": "Sita",
+          "fmemberrelation": "Sister",
+          "fmemberdob": "1982-05-08",
+          "fmembermobile": "23123213"
+        },
+        {
+          "fmembername": "Sohan",
+          "fmemberrelation": "Brother",
+          "fmemberdob": "2003-06-06",
+          "fmembermobile": "4535"
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
