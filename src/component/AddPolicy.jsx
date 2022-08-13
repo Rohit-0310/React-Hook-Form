@@ -12,7 +12,7 @@ const AddPolicy = () => {
 
     
     // const [discount, setDiscount] = useState("")
-    // const [amount, setAmount] = useState("")
+    const [amount, setAmount] = useState("")
 
     const { register, control, handleSubmit, watch } = useForm({
         defaultValues: {
