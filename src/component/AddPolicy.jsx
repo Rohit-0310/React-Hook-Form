@@ -9,7 +9,6 @@ import DeleteIcon from '@mui/icons-material/Delete';
 import { useForm, useFieldArray, Controller } from 'react-hook-form'
 
 const AddPolicy = () => {
-
     
     // const [discount, setDiscount] = useState("")
     //const [amount, setAmount] = useState("")
